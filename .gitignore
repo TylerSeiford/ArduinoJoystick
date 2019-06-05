@@ -335,7 +335,7 @@ ASALocalRun/
 
 
 # Others
-__vm/*
+*/__vm/*
 *.vc*
 *.sln
 *Debug/*
