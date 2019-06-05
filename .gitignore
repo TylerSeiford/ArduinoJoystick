@@ -338,3 +338,5 @@ ASALocalRun/
 __vm/*
 *.vc*
 *.sln
+*Debug/*
+*Release/*
